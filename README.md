@@ -17,7 +17,7 @@ Notes :
 
 - Using spring-boot 2.0.4 (NusantaraTerritoryApp)
 - Using Spring Framework version 5.0.8 (RestWebClientApp)
-- Database contains Province of DKI Jakarta Only.
+- Database contains only the province of DKI Jakarta.
 - Using IntelliJ 2018.1.3 (Community Edition)
 - Using Apache Maven 3.5.4
 - Using Apache Tomcat 8.5 as Servlet container.
@@ -26,4 +26,4 @@ Regards,
 
 
 Rois Awang Rimbayani
-open.sentinel@gmail.com
+( open.sentinel@gmail.com )
